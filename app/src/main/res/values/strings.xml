@@ -1,0 +1,12 @@
+<resources>
+    <string name="VirtualSalesman">Virtual Salesman</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="about_text">Awesome product in cheaper price. Random text for showing details about the product like product fabric, size details, sleeves length if required. </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detail">Product Details</string>
+</resources>
